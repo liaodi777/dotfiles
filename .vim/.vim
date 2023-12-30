@@ -1,1 +1,0 @@
-/home/liaodi/dotfiles/.vim/
