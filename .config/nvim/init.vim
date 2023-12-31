@@ -1,3 +1,4 @@
+set helplang=ja
 set number
 set shiftwidth=4
 set tabstop=4
@@ -80,7 +81,6 @@ autocmd colorscheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 
 
-syntax on
 syntax enable
 
 colorscheme elly
