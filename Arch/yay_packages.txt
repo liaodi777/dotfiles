@@ -1,0 +1,5 @@
+neovim
+zsh
+fish
+sheldon
+starship

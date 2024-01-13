@@ -1,4 +1,5 @@
 set helplang=ja
+
 set number
 set shiftwidth=4
 set tabstop=4
@@ -14,8 +15,6 @@ set wildmenu
 
 set cursorline
 set cursorcolumn
-
-set helplang=ja
 
 " dein.vim settings {{{
 " install dir {{{
@@ -152,4 +151,5 @@ call skkeleton#config({
 
 imap <C-j> <Plug>(skkeleton-toggle)
 cmap <C-j> <Plug>(skkeleton-toggle)
+
 

@@ -1,0 +1,11 @@
+git
+fakeroot
+binutils
+make
+gcc
+libtool
+curl
+file
+openssh
+gzip
+which
