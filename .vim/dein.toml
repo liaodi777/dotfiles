@@ -5,6 +5,9 @@ repo = 'vim-jp/vimdoc-ja'
 repo = 'kuuote/elly.vim'
 
 [[plugins]]
+repo = 'cocopon/iceberg.vim'
+
+[[plugins]]
 repo = 'kyoh86/momiji'
 
 [[plugins]]

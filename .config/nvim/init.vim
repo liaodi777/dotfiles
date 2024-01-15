@@ -82,14 +82,14 @@ autocmd colorscheme * highlight EndOfBuffer ctermbg=NONE guibg=NONE
 
 syntax enable
 
-colorscheme elly
-"colorscheme iceberg
+"colorscheme elly
+colorscheme iceberg
 "colorscheme momiji
 
 set termguicolors
 
-"let g:lightline = { 'colorscheme': 'icebergDark' }
-let g:lightline = { 'colorscheme': 'elly' }
+let g:lightline = { 'colorscheme': 'iceberg' }
+"let g:lightline = { 'colorscheme': 'elly' }
 "let g:lightline = { 'colorscheme': 'momiji' }
 
 "---------------------
