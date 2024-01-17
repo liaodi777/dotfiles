@@ -13,3 +13,5 @@ source ~/.config/nvim/ddc_settings.vim
 "skkeleton settings"
 source ~/.config/nvim/skkeleton.vim
 
+"ddu.vim settings"
+"source ~/.config/nvim/ddu_settings.vim

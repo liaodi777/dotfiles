@@ -10,7 +10,7 @@ set autoindent
 set smartindent
 set hlsearch
 nmap <silent> <Esc><Esc> :<C-u>nohlsearch<CR><Esc> " 文字列検索のハイライトオフ
-set clipboard=unnamedplus
+set clipboard+=unnamedplus
 set wildmenu
 
 set cursorline
