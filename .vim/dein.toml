@@ -57,3 +57,6 @@ repo = 'Shougo/ddu-kind-file'
 
 [[plugins]]
 repo = 'Shougo/ddu-column-filename'
+
+[[plugins]]
+repo = 'matsui54/ddu-source-help'
