@@ -11,6 +11,27 @@ repo = 'cocopon/iceberg.vim'
 repo = 'kyoh86/momiji'
 
 [[plugins]]
+repo = "catppuccin/nvim"
+
+[[plugins]]
+repo = "sainnhe/everforest"
+
+[[plugins]]
+repo = "sainnhe/gruvbox-material"
+
+[[plugins]]
+repo = "morhetz/gruvbox"
+
+[[plugins]]
+repo = "sainnhe/edge"
+
+[[plugins]]
+repo = "EdenEast/nightfox.nvim"
+
+[[plugins]]
+repo = "rose-pine/neovim"
+
+[[plugins]]
 repo = 'itchyny/lightline.vim'
 
 [[plugins]]
