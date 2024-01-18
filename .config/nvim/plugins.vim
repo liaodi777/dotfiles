@@ -23,9 +23,11 @@ if dein#load_state(s:dein_dir)
     call mkdir(s:rc_dir, 'p')
   endif
   let s:toml = s:rc_dir . '/dein.toml'
+  let s:colorscheme_toml = s:rc_dir . '/colors.toml'
 
   " read toml and cache
   call dein#load_toml(s:toml, {'lazy': 0})
+  call dein#load_toml(s:colorscheme_toml, {'lazy': 0})
 
   " end settings
   call dein#end()
