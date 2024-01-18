@@ -3,3 +3,4 @@ zsh
 fish
 sheldon
 starship
+peco
