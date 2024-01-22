@@ -4,3 +4,4 @@ fish
 sheldon
 starship
 peco
+neofetch
