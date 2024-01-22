@@ -8,4 +8,12 @@ curl
 file
 openssh
 gzip
+unzip
 which
+xclip
+wl-clipboard
+noto-fonts
+noto-fonts-cjk
+noto-fonts-emoji
+man
+

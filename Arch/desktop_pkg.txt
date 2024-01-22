@@ -1,0 +1,10 @@
+wezterm
+google-chrome
+ttf-hackgen
+openconnect-gui
+xf86-input-synaptics
+libinput
+libinput-gestures
+xf86-input-libinput
+polybar
+rofi
