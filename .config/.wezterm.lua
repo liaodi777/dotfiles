@@ -18,5 +18,11 @@ config.window_background_opacity = 0.8
 
 config.default_cursor_style = 'SteadyBar'
 
+-- フォントの設定
+config.font = wezterm.font("HackGen Console NF", {weight="Regular", stretch="Normal", style="Normal"})
+
+-- フォントサイズの設定
+config.font_size = 16
+
 -- and finally, return the configuration to wezterm
 return config
