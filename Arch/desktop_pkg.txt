@@ -8,3 +8,7 @@ libinput-gestures
 xf86-input-libinput
 polybar
 rofi
+wofi
+waybar
+Alacritty
+swaylock-effects-git
