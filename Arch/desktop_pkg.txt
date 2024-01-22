@@ -10,5 +10,4 @@ polybar
 rofi
 wofi
 waybar
-Alacritty
-swaylock-effects-git
+tlp
