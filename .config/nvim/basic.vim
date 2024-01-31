@@ -1,4 +1,5 @@
 set helplang=ja
+set runtimepath+=~/.cache/dein/repos/github.com/vim-jp/vimdoc-ja
 
 set number
 set shiftwidth=4
